@@ -15,7 +15,7 @@ const Team = () => {
             </div>
 
             <MDBRow>
-                <MDBCol>
+                <MDBCol size="md">
                     <div  size="md" className="z-depth-2 mb-3 rounded text-center d-flex justify-content-start" bgColor="white">
                         <img src={require("../images/Face.jpg")}
                              className="img-fluid rounded-left"
@@ -42,7 +42,7 @@ const Team = () => {
                     </div>
                 </MDBCol>
 
-                <MDBCol>
+                <MDBCol size="md">
                     <div  size="md" className="z-depth-2 mb-3 rounded text-center d-flex justify-content-start" bgColor="white">
                         <img src={require("../images/Nosotros/Jito.jpg")}
                              className="img-fluid rounded-left"
@@ -69,7 +69,7 @@ const Team = () => {
                     </div>
                 </MDBCol>
 
-                <MDBCol>
+                <MDBCol size="md">
                     <div  size="md" className="z-depth-2 mb-3 rounded text-center d-flex justify-content-start" bgColor="white">
                         <img src={require("../images/Nosotros/Konami.jpg")}
                              className="img-fluid rounded-left"
@@ -98,7 +98,7 @@ const Team = () => {
             </MDBRow>
 
             <MDBRow>
-                <MDBCol>
+                <MDBCol size="md">
                     <div  size="md" className="z-depth-2 mb-3 rounded text-center d-flex justify-content-start" bgColor="white">
                         <img src={require("../images/Nosotros/Roberto.jpg")}
                              className="img-fluid rounded-left"
@@ -125,7 +125,7 @@ const Team = () => {
                     </div>
                 </MDBCol>
 
-                <MDBCol>
+                <MDBCol size="md">
                     <div  size="md" className="z-depth-2 mb-3 rounded text-center d-flex justify-content-start" bgColor="white">
                         <img src={require("../images/Nosotros/Paco.jpg")}
                              className="img-fluid rounded-left"
@@ -152,7 +152,7 @@ const Team = () => {
                     </div>
                 </MDBCol>
 
-                <MDBCol>
+                <MDBCol size="md">
                     <div  size="md" className="z-depth-2 mb-3 rounded text-center d-flex justify-content-start" bgColor="white">
                         <img src={require("../images/Nosotros/DarkLink.jpg")}
                              className="img-fluid rounded-left"
@@ -181,7 +181,7 @@ const Team = () => {
             </MDBRow>
 
             <MDBRow>
-                <MDBCol>
+                <MDBCol size="md">
                     <div  size="md" className="z-depth-2 mb-3 rounded text-center d-flex justify-content-start" bgColor="white">
                         <img src={require("../images/Nosotros/Arthuro.jpg")}
                              className="img-fluid rounded-left"
@@ -208,7 +208,7 @@ const Team = () => {
                     </div>
                 </MDBCol>
 
-                <MDBCol>
+                <MDBCol size="md">
                     <div  size="md" className="z-depth-2 mb-3 rounded text-center d-flex justify-content-start" bgColor="white">
                         <img src={require("../images/Nosotros/Alike.jpg")}
                              className="img-fluid rounded-left"
@@ -235,7 +235,7 @@ const Team = () => {
                     </div>
                 </MDBCol>
 
-                <MDBCol>
+                <MDBCol size="md">
                     <div  size="md" className="z-depth-2 mb-3 rounded text-center d-flex justify-content-start" bgColor="white">
                         <MDBView className="rounded-left">
                         <img src={require("../images/Nosotros/Jesus.png")}
