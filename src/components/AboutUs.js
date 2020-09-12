@@ -1,5 +1,13 @@
 import React, {Component} from "react";
-import { MDBJumbotron, MDBBtn, MDBRow, MDBCol, MDBCardTitle, MDBIcon } from "mdbreact";
+import
+{
+    MDBJumbotron,
+    MDBBtn,
+    MDBRow,
+    MDBCol,
+    MDBCardTitle,
+    MDBIcon
+} from "mdbreact";
 
 class AboutUs extends Component {
     render() {

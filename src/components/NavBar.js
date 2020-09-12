@@ -1,6 +1,15 @@
 import React, { Component } from 'react';
-import { MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavItem, MDBNavLink, MDBCollapse, MDBContainer,
-    MDBHamburgerToggler } from 'mdbreact';
+import
+{
+    MDBNavbar,
+    MDBNavbarBrand,
+    MDBNavbarNav,
+    MDBNavItem,
+    MDBNavLink,
+    MDBCollapse,
+    MDBContainer,
+    MDBHamburgerToggler
+} from 'mdbreact';
 import { BrowserRouter as Router } from 'react-router-dom';
 
 class NavBar extends Component {
