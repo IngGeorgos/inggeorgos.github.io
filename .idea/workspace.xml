@@ -2,85 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a43e4e0-7881-4016-924d-a046403d8980" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MDB-React-Free.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/precache-manifest.81265ddccd9ff90269a8f6798975e263.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.9497d81f.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/2.9497d81f.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.255afb35.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/css/main.255afb35.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.7208df13.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.7208df13.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/2.7208df13.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.f1e743ca.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/main.f1e743ca.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.7974d308.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.7974d308.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/Jesus.83a30f22.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/Sistemas.1d6a0ee6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/arrow_left.11911410.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/arrow_right.8ef6a08c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-brands-400.085b1dd8.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-brands-400.0fabb660.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-brands-400.cac68c83.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-brands-400.ccfdb9dc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-brands-400.dc0bd022.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-regular-400.05b53beb.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-regular-400.1a78af41.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-regular-400.3a3398a6.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-regular-400.ad3a7c0d.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-regular-400.e75dfd90.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-solid-900.03ba7cb7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-solid-900.781e85bb.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-solid-900.89bd2e38.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-solid-900.c500da19.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/fa-solid-900.ee09ad75.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/static/media/iOSyAndroid.fbf33d7e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/AboutUs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Avatar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Mision.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Services.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Team.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Technologies.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/TestimonialContainer.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Testimonials.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Face.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Nosotros/Alike.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Nosotros/Arthuro.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Nosotros/DarkLink.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Nosotros/Jesus.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Nosotros/Jito.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Nosotros/Konami.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Nosotros/Paco.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Nosotros/Roberto.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Qt.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/Sistemas.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/WebApps.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/c++.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/django.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/flutter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/iOSyAndroid.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/mysql.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/postgresql.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/registerServiceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage_tech_site/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/mirage_tech_site/build/asset-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage_tech_site/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mirage_tech_site/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage_tech_site/build/precache-manifest.81265ddccd9ff90269a8f6798975e263.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage_tech_site/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/mirage_tech_site/build/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage_tech_site/build/static/js/2.7208df13.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage_tech_site/build/static/js/2.7208df13.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage_tech_site/build/static/js/2.7208df13.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage_tech_site/build/static/js/main.f1e743ca.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mirage_tech_site/build/static/js/main.f1e743ca.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.81265ddccd9ff90269a8f6798975e263.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.7208df13.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.7208df13.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.7208df13.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.f1e743ca.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.f1e743ca.chunk.js.map" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -133,7 +73,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="2" />
+          <entry key="css" value="3" />
           <entry key="html" value="3" />
           <entry key="js" value="20" />
           <entry key="png" value="3" />
@@ -143,7 +83,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="2" />
+          <entry key="CSS" value="3" />
           <entry key="HTML" value="3" />
           <entry key="Image" value="3" />
           <entry key="JavaScript" value="20" />
@@ -153,18 +93,18 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="315" />
+          <entry key="css" value="319" />
           <entry key="html" value="28" />
           <entry key="js" value="8567" />
-          <entry key="txt" value="95" />
+          <entry key="txt" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="315" />
+          <entry key="CSS" value="319" />
           <entry key="HTML" value="28" />
           <entry key="JavaScript" value="8567" />
-          <entry key="PLAIN_TEXT" value="95" />
+          <entry key="PLAIN_TEXT" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
@@ -175,7 +115,17 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mirage_tech_site/src/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -214,6 +164,7 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/index.css" />
         <option value="$PROJECT_DIR$/src/components/Footer.js" />
+        <option value="$PROJECT_DIR$/mirage_tech_site/src/index.css" />
       </list>
     </option>
   </component>
@@ -252,6 +203,11 @@
             <path>
               <item name="MirageTech" type="b2602c69:ProjectViewProjectNode" />
               <item name="MirageTech" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MirageTech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MirageTech" type="462c0819:PsiDirectoryNode" />
+              <item name="mirage_tech_site" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -311,7 +267,7 @@
       <workItem from="1599692507780" duration="15366000" />
       <workItem from="1599780570246" duration="6057000" />
       <workItem from="1599837867160" duration="6019000" />
-      <workItem from="1599931907781" duration="3863000" />
+      <workItem from="1599931907781" duration="4726000" />
     </task>
     <task id="LOCAL-00001" summary="Opiniones, Servicios">
       <created>1599451191162</created>
@@ -481,11 +437,32 @@
       <option name="project" value="LOCAL" />
       <updated>1599934937766</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Build Fuera">
+      <created>1599935892445</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1599935892445</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Build Fuera">
+      <created>1599935905881</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1599935905881</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Build Fuera">
+      <created>1599936476527</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1599936476527</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="105753000" />
+    <option name="totallyTimeSpent" value="106616000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -498,8 +475,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -544,7 +522,8 @@
     <MESSAGE value="Opiniones, Servicios, Mision, Tecnologias, AboutUs, NavBar (Reajustado)" />
     <MESSAGE value="Opiniones, Servicios, Mision, Tecnologias, AboutUs, NavBar, Team (Reajustado)" />
     <MESSAGE value="Opiniones, Servicios, Mision, Tecnologias, AboutUs, NavBar, Team, Build (Reajustado)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opiniones, Servicios, Mision, Tecnologias, AboutUs, NavBar, Team, Build (Reajustado)" />
+    <MESSAGE value="Build Fuera" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build Fuera" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.test.js">
@@ -706,6 +685,13 @@
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mirage_tech_site/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
