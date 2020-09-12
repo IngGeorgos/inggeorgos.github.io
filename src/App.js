@@ -8,6 +8,7 @@ import Technologies from "./components/Technologies";
 import AboutUs from "./components/AboutUs";
 import NavBar from "./components/NavBar";
 import Team from "./components/Team";
+import Footer from "./components/Footer";
 
 class App extends Component
 {
@@ -15,15 +16,19 @@ class App extends Component
   {
     return(
 
-        <MDBContainer>
-            <NavBar/>
-            <AboutUs/>
-            <Mision/>
-            <Services/>
-            <Technologies/>
-            <Testimonials/>
-            <Team/>
-        </MDBContainer>
+        <div>
+            <MDBContainer>
+                <NavBar/>
+                <AboutUs/>
+                <Mision/>
+                <Services/>
+                <Technologies/>
+                <Testimonials/>
+                <Team/>
+            </MDBContainer>
+            <hr/>
+            <Footer/>
+        </div>
 
     );
   }

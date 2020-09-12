@@ -1,4 +1,4 @@
-/*div[class^="col"],
+div[class^="col"],
 div[class*=" col"] {
     border: 1px double red;
 }
@@ -32,6 +32,6 @@ div[class*=" view"] {
 div[class^="card"],
 div[class*=" card"] {
     border: 1px double chocolate;
-}*/
+}
 
 

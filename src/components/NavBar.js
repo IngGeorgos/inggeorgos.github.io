@@ -18,10 +18,6 @@ class NavBar extends Component {
         collapseID: ''
     }
 
-    toggleCollapse = collapseID => () => {
-        this.setState(prevState => ({ collapseID: (prevState.collapseID !== collapseID ? collapseID : '') }));
-    }
-
     toggleSingleCollapse = collapseId => {
         this.setState({
             ...this.state,
@@ -33,7 +29,7 @@ class NavBar extends Component {
         return (
             <Router>
                 <div className="my-5">
-                    <MDBNavbar color="blue lighten-2" light scrolling fixed="top" transparent>
+                    <MDBNavbar color="blue" light scrolling fixed="top" transparent>
                         <MDBContainer fluid>
                             <MDBNavbarBrand>
                                 Mirage Tech
