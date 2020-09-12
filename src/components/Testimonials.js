@@ -55,7 +55,7 @@ const Testimonials = () => {
                         </MDBCarouselItem>
                         <MDBCarouselItem itemId='2'>
                             <TestimonialContainer>
-                                    <Avatar src={require("../images/Face.jpg")}/>
+                                    <Avatar src={require("../images/Nosotros/Jito.jpg")}/>
                                     <p>
                                         <MDBIcon icon='quote-left' /> Nemo enim ipsam voluptatem quia
                                         voluptas sit aspernatur aut odit aut fugit, sed quia
@@ -77,7 +77,7 @@ const Testimonials = () => {
                         </MDBCarouselItem>
                         <MDBCarouselItem itemId='3'>
                             <TestimonialContainer>
-                                    <Avatar src={require("../images/Face.jpg")}/>
+                                    <Avatar src={require("../images/Nosotros/Konami.jpg")}/>
                                     <p>
                                         <MDBIcon icon='quote-left' /> Duis aute irure dolor in
                                         reprehenderit in voluptate velit esse cillum dolore eu fugiat
