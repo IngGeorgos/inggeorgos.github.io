@@ -15,7 +15,7 @@ const Testimonials = () => {
 
         <div>
             <div className="divider-new">
-                <h2 className='h1-responsive blue-text font-weight-bold text-center'>Que creen nuestros clientes de nosotors</h2>
+                <h2 className='h1-responsive blue-text font-weight-bold text-center'>Que creen nuestros clientes</h2>
             </div>
 
         <MDBBox className="z-depth-2 my-5 rounded p-5" bgColor="white">

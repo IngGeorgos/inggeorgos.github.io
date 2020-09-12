@@ -246,7 +246,7 @@ const Team = () => {
                         </MDBView>
                         <div className="container-fluid p-2">
                             <h5 className='h4-responsive font-weight-bold text-center'>Jesus</h5>
-                            <p>This player is not longer aviable</p>
+                            <p>This player is not longer available</p>
                             <div className='text-center'>
                                 <a href="" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
