@@ -108,8 +108,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/NavBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="568">
-              <caret line="133" column="84" selection-start-line="133" selection-start-column="84" selection-end-line="133" selection-end-column="84" />
+            <state relative-caret-position="653">
+              <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -359,7 +359,7 @@
       <workItem from="1600702826886" duration="5637000" />
       <workItem from="1600708500004" duration="1002000" />
       <workItem from="1600709573255" duration="427000" />
-      <workItem from="1600710071025" duration="3702000" />
+      <workItem from="1600710071025" duration="3962000" />
     </task>
     <task id="LOCAL-00001" summary="Opiniones, Servicios">
       <created>1599451191162</created>
@@ -592,11 +592,18 @@
       <option name="project" value="LOCAL" />
       <updated>1600713440047</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="PreBuild">
+      <created>1600714005220</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1600714005220</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116339000" />
+    <option name="totallyTimeSpent" value="116599000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -608,10 +615,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -819,8 +825,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/NavBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="568">
-          <caret line="133" column="84" selection-start-line="133" selection-start-column="84" selection-end-line="133" selection-end-column="84" />
+        <state relative-caret-position="653">
+          <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
