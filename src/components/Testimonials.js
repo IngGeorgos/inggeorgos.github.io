@@ -12,7 +12,7 @@ import TestimonialContainer from "./TestimonialContainer";
 const Testimonials = () => {
     return (
 
-        <div>
+        <div id="Opiniones">
             <div className="divider-new">
                 <h2 className='h1-responsive blue-text font-weight-bold text-center'>Que creen nuestros clientes</h2>
             </div>

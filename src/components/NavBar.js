@@ -36,34 +36,91 @@ class NavBar extends React.Component {
                     <header>
                         <MDBNavbar style={bgColor} dark expand="md" scrolling fixed="top">
                             <MDBNavbarBrand href="/">
-                                <strong>Mirage Tech</strong>
+                                <strong>
+                                    <Link
+                                    activeClass="active"
+                                    to="Intro"
+                                    spy={false}
+                                    smooth={true}
+                                    offset={-70}
+                                    duration={500}
+                                >
+                                    Mirage Tech
+                                </Link>
+                                </strong>
                             </MDBNavbarBrand>
                             <MDBNavbarToggler onClick={ this.onClick } />
                             <MDBCollapse isOpen = { this.state.collapse } navbar>
                                 <MDBNavbarNav left>
-                                    <MDBNavItem active>
-                                        <MDBNavLink to="#">Mision</MDBNavLink>
+                                    <MDBNavItem>
+                                        <MDBNavLink to="#">
+                                            <Link
+                                                activeClass="active"
+                                                to="Mision"
+                                                spy={true}
+                                                smooth={true}
+                                                offset={-70}
+                                                duration={500}
+                                            >
+                                                Misión
+                                            </Link>
+                                        </MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#">Servicios</MDBNavLink>
-                                    </MDBNavItem>
-                                    <MDBNavItem>
-                                        <Link
+                                        <MDBNavLink to="#">
+                                            <Link
                                             activeClass="active"
-                                            to="section1"
+                                            to="Servicios"
                                             spy={true}
                                             smooth={true}
                                             offset={-70}
                                             duration={500}
                                         >
-                                            Tecnologias
+                                            Servicios
                                         </Link>
+                                        </MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#">Testimonials</MDBNavLink>
+                                        <MDBNavLink to="#">
+                                            <Link
+                                            activeClass="active"
+                                            to="Tecnologias"
+                                            spy={true}
+                                            smooth={true}
+                                            offset={-70}
+                                            duration={500}
+                                        >
+                                            Tecnologías
+                                        </Link>
+                                        </MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#">Nosotros</MDBNavLink>
+                                        <MDBNavLink to="#">
+                                            <Link
+                                                activeClass="active"
+                                                to="Opiniones"
+                                                spy={true}
+                                                smooth={true}
+                                                offset={-70}
+                                                duration={500}
+                                            >
+                                                Opiniones
+                                            </Link>
+                                        </MDBNavLink>
+                                    </MDBNavItem>
+                                    <MDBNavItem>
+                                        <MDBNavLink to="#">
+                                            <Link
+                                                activeClass="active"
+                                                to="Nosotros"
+                                                spy={true}
+                                                smooth={true}
+                                                offset={-70}
+                                                duration={500}
+                                            >
+                                                Nosotros
+                                            </Link>
+                                        </MDBNavLink>
                                     </MDBNavItem>
                                 </MDBNavbarNav>
                                 <MDBNavbarNav right>

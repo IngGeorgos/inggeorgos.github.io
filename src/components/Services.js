@@ -13,7 +13,7 @@ import {
 class Services extends Component {
     render() {
         return (
-            <div>
+            <div id="Servicios">
                 <div className="divider-new">
                     <h2 className='h1-responsive blue-text font-weight-bold text-center'>Que servicios ofrecemos</h2>
                 </div>

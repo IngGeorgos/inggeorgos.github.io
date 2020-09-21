@@ -13,7 +13,7 @@ class AboutUs extends Component {
     render() {
         var bg = require('../images/bg.jpg')
         return (
-            <div>
+            <div id="Intro">
                 <MDBRow>
                     <MDBCol>
                         <MDBJumbotron style={{ padding: 0 }} className="z-depth-2">

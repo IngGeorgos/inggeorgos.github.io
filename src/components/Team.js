@@ -9,7 +9,7 @@ import {
 
 const Team = () => {
     return (
-        <div>
+        <div id="Nosotros">
             <div className="divider-new">
                 <h2 className='h1-responsive blue-text font-weight-bold text-center'>Choose your character</h2>
             </div>
