@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7a43e4e0-7881-4016-924d-a046403d8980" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -297,17 +296,6 @@
               <item name="MirageTech" type="b2602c69:ProjectViewProjectNode" />
               <item name="MirageTech" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MirageTech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MirageTech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MirageTech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MirageTech" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -371,7 +359,7 @@
       <workItem from="1600702826886" duration="5637000" />
       <workItem from="1600708500004" duration="1002000" />
       <workItem from="1600709573255" duration="427000" />
-      <workItem from="1600710071025" duration="3004000" />
+      <workItem from="1600710071025" duration="3702000" />
     </task>
     <task id="LOCAL-00001" summary="Opiniones, Servicios">
       <created>1599451191162</created>
@@ -583,11 +571,32 @@
       <option name="project" value="LOCAL" />
       <updated>1600711581310</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="PreBuild">
+      <created>1600713128346</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1600713128346</updated>
+    </task>
+    <task id="LOCAL-00032" summary="PreBuild">
+      <created>1600713257864</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1600713257864</updated>
+    </task>
+    <task id="LOCAL-00033" summary="PreBuild">
+      <created>1600713440047</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1600713440047</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="115641000" />
+    <option name="totallyTimeSpent" value="116339000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -599,10 +608,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12328767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
