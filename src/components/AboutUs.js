@@ -11,13 +11,16 @@ import
 
 class AboutUs extends Component {
     render() {
+        var bg = require('../images/bg.jpg')
         return (
             <div>
                 <MDBRow>
                     <MDBCol>
                         <MDBJumbotron style={{ padding: 0 }} className="z-depth-2">
-                            <MDBCol className="text-white text-center py-5 px-4 my-5" style=
-                                {{ backgroundImage: `url(https://mdbootstrap.com/img/Photos/Others/gradient1.jpg)` }}
+                            <MDBCol className="text-white text-center py-5 px-4 my-5"
+                                    style={{
+                                        backgroundImage: "url("+bg+")"
+                                    }}
                             >
                                 <MDBCol className="py-5">
                                     <MDBCardTitle className="h1-responsive pt-3 font-bold">Mirage Tech</MDBCardTitle>

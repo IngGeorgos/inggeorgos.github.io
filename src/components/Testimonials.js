@@ -24,7 +24,7 @@ const Testimonials = () => {
                     activeItem={1}
                     length={3}
                     testimonial
-                    interval={20000}
+                    interval={5000}
                     mobileGesture={true}
                     onHoverStop={true}
                     showIndicators={false}
