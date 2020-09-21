@@ -53,7 +53,6 @@ class NavBar extends React.Component {
                             <MDBCollapse isOpen = { this.state.collapse } navbar>
                                 <MDBNavbarNav left>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#">
                                             <Link
                                                 activeClass="active"
                                                 to="Mision"
@@ -62,12 +61,12 @@ class NavBar extends React.Component {
                                                 offset={-70}
                                                 duration={500}
                                             >
-                                                Misión
+                                                <MDBNavLink to="#">
+                                                    Misión
+                                                </MDBNavLink>
                                             </Link>
-                                        </MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#">
                                             <Link
                                             activeClass="active"
                                             to="Servicios"
@@ -76,13 +75,13 @@ class NavBar extends React.Component {
                                             offset={-70}
                                             duration={500}
                                         >
-                                            Servicios
+                                                <MDBNavLink to="#">
+                                                    Servicios
+                                                </MDBNavLink>
                                         </Link>
-                                        </MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#">
-                                            <Link
+                                        <Link
                                             activeClass="active"
                                             to="Tecnologias"
                                             spy={true}
@@ -90,12 +89,12 @@ class NavBar extends React.Component {
                                             offset={-70}
                                             duration={500}
                                         >
+                                        <MDBNavLink to="#">
                                             Tecnologías
-                                        </Link>
                                         </MDBNavLink>
+                                        </Link>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#">
                                             <Link
                                                 activeClass="active"
                                                 to="Opiniones"
@@ -104,12 +103,12 @@ class NavBar extends React.Component {
                                                 offset={-70}
                                                 duration={500}
                                             >
-                                                Opiniones
+                                                <MDBNavLink to="#">
+                                                    Opiniones
+                                                </MDBNavLink>
                                             </Link>
-                                        </MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#">
                                             <Link
                                                 activeClass="active"
                                                 to="Nosotros"
@@ -118,9 +117,10 @@ class NavBar extends React.Component {
                                                 offset={-70}
                                                 duration={500}
                                             >
-                                                Nosotros
+                                                <MDBNavLink to="#">
+                                                    Nosotros
+                                                </MDBNavLink>
                                             </Link>
-                                        </MDBNavLink>
                                     </MDBNavItem>
                                 </MDBNavbarNav>
                                 <MDBNavbarNav right>
