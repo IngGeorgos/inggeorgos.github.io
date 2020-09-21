@@ -10,7 +10,7 @@ import
     MDBNavLink,
     MDBIcon
 } from 'mdbreact';
-import { Link, animateScroll as scroll } from "react-scroll";
+import { Link } from "react-scroll";
 import { BrowserRouter as Router } from 'react-router-dom';
 
 class NavBar extends React.Component {
@@ -131,7 +131,7 @@ class NavBar extends React.Component {
                                         <MDBNavLink to="#"><MDBIcon fab icon="twitter" /></MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#"><MDBIcon fab icon="instagram" /></MDBNavLink>
+                                        <MDBNavLink to="#"><MDBIcon fab icon="github" /></MDBNavLink>
                                     </MDBNavItem>
                                 </MDBNavbarNav>
                             </MDBCollapse>
