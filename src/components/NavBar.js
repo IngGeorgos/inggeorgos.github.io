@@ -10,6 +10,7 @@ import
     MDBNavLink,
     MDBIcon
 } from 'mdbreact';
+import { Link, animateScroll as scroll } from "react-scroll";
 import { BrowserRouter as Router } from 'react-router-dom';
 
 class NavBar extends React.Component {
@@ -47,7 +48,16 @@ class NavBar extends React.Component {
                                         <MDBNavLink to="#">Servicios</MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#">Tecnologias</MDBNavLink>
+                                        <Link
+                                            activeClass="active"
+                                            to="section1"
+                                            spy={true}
+                                            smooth={true}
+                                            offset={-70}
+                                            duration={500}
+                                        >
+                                            Tecnologias
+                                        </Link>
                                     </MDBNavItem>
                                     <MDBNavItem>
                                         <MDBNavLink to="#">Testimonials</MDBNavLink>
