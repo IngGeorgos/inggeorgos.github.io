@@ -3,11 +3,42 @@
   <component name="ChangeListManager">
     <list default="true" id="354ee7ec-8371-4d24-85de-4c48ed4ea5f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.9497d81f.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/css/2.9497d81f.chunk.css.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/css/main.255afb35.chunk.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/css/main.255afb35.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.670757a7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.670757a7.chunk.js.LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/2.670757a7.chunk.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/js/main.25cb7bdb.chunk.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/build/static/js/main.25cb7bdb.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.7974d308.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/js/runtime-main.7974d308.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/Jesus.83a30f22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/Sistemas.1d6a0ee6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/arrow_left.11911410.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/arrow_right.8ef6a08c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/bg.37d9b7ea.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-brands-400.085b1dd8.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-brands-400.0fabb660.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-brands-400.cac68c83.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-brands-400.ccfdb9dc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-brands-400.dc0bd022.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-regular-400.05b53beb.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-regular-400.1a78af41.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-regular-400.3a3398a6.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-regular-400.ad3a7c0d.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-regular-400.e75dfd90.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-solid-900.03ba7cb7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-solid-900.781e85bb.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-solid-900.89bd2e38.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-solid-900.c500da19.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/fa-solid-900.ee09ad75.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/static/media/iOSyAndroid.fbf33d7e.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -80,8 +111,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/NavBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+            <state relative-caret-position="190">
+              <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -282,7 +313,7 @@
       <workItem from="1600715595626" duration="2882000" />
       <workItem from="1600719233691" duration="1500000" />
       <workItem from="1600734242885" duration="6611000" />
-      <workItem from="1600741339079" duration="70000" />
+      <workItem from="1600741339079" duration="684000" />
     </task>
     <task id="LOCAL-00001" summary="PreBuild">
       <created>1600717843846</created>
@@ -368,11 +399,18 @@
       <option name="project" value="LOCAL" />
       <updated>1600740819850</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="PreBuild">
+      <created>1600741818859</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1600741818859</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11063000" />
+    <option name="totallyTimeSpent" value="11677000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -385,9 +423,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20547946" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20547946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -520,8 +557,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/NavBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
+        <state relative-caret-position="190">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
