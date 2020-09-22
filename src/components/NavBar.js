@@ -34,7 +34,7 @@ class NavBar extends React.Component {
             <div className="mb-5">
                 <Router>
                     <header>
-                        <MDBNavbar style={bgColor} expand="md" scrolling fixed="top">
+                        <MDBNavbar style={bgColor} dark expand="md" scrolling fixed="top">
                             <MDBNavbarBrand href="/">
                                 <strong className="black-text">
                                     <Link
@@ -61,7 +61,7 @@ class NavBar extends React.Component {
                                                 offset={-80}
                                                 duration={500}
                                             >
-                                                <MDBNavLink to="#" className="black-text">
+                                                <MDBNavLink to="#">
                                                     Misión
                                                 </MDBNavLink>
                                             </Link>
@@ -75,7 +75,7 @@ class NavBar extends React.Component {
                                             offset={-80}
                                             duration={500}
                                         >
-                                                <MDBNavLink to="#" className="black-text">
+                                                <MDBNavLink to="#">
                                                     Servicios
                                                 </MDBNavLink>
                                         </Link>
@@ -89,7 +89,7 @@ class NavBar extends React.Component {
                                             offset={-80}
                                             duration={500}
                                         >
-                                            <MDBNavLink to="#" className="black-text">
+                                            <MDBNavLink to="#">
                                                 Tecnologías
                                             </MDBNavLink>
                                         </Link>
@@ -103,7 +103,7 @@ class NavBar extends React.Component {
                                                 offset={-80}
                                                 duration={500}
                                             >
-                                                <MDBNavLink to="#" className="black-text">
+                                                <MDBNavLink to="#">
                                                     Opiniones
                                                 </MDBNavLink>
                                             </Link>
@@ -117,7 +117,7 @@ class NavBar extends React.Component {
                                                 offset={-80}
                                                 duration={500}
                                             >
-                                                <MDBNavLink to="#" className="black-text">
+                                                <MDBNavLink to="#">
                                                     Nosotros
                                                 </MDBNavLink>
                                             </Link>
@@ -125,13 +125,13 @@ class NavBar extends React.Component {
                                 </MDBNavbarNav>
                                 <MDBNavbarNav right>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#"><MDBIcon fab icon="facebook-f" className="black-text" /></MDBNavLink>
+                                        <MDBNavLink to="#"><MDBIcon fab icon="facebook-f"/></MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#"><MDBIcon fab icon="twitter"  className="black-text" /></MDBNavLink>
+                                        <MDBNavLink to="#"><MDBIcon fab icon="twitter"/></MDBNavLink>
                                     </MDBNavItem>
                                     <MDBNavItem>
-                                        <MDBNavLink to="#"><MDBIcon fab icon="github" className="black-text" /></MDBNavLink>
+                                        <MDBNavLink to="#"><MDBIcon fab icon="github"/></MDBNavLink>
                                     </MDBNavItem>
                                 </MDBNavbarNav>
                             </MDBCollapse>
