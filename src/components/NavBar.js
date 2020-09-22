@@ -42,7 +42,7 @@ class NavBar extends React.Component {
                                     to="Intro"
                                     spy={false}
                                     smooth={true}
-                                    offset={-70}
+                                    offset={-80}
                                     duration={500}
                                 >
                                     Mirage Tech
@@ -58,7 +58,7 @@ class NavBar extends React.Component {
                                                 to="Mision"
                                                 spy={true}
                                                 smooth={true}
-                                                offset={-70}
+                                                offset={-80}
                                                 duration={500}
                                             >
                                                 <MDBNavLink to="#">
@@ -72,7 +72,7 @@ class NavBar extends React.Component {
                                             to="Servicios"
                                             spy={true}
                                             smooth={true}
-                                            offset={-70}
+                                            offset={-80}
                                             duration={500}
                                         >
                                                 <MDBNavLink to="#">
@@ -86,12 +86,12 @@ class NavBar extends React.Component {
                                             to="Tecnologias"
                                             spy={true}
                                             smooth={true}
-                                            offset={-70}
+                                            offset={-80}
                                             duration={500}
                                         >
-                                        <MDBNavLink to="#">
-                                            Tecnologías
-                                        </MDBNavLink>
+                                            <MDBNavLink to="#">
+                                                Tecnologías
+                                            </MDBNavLink>
                                         </Link>
                                     </MDBNavItem>
                                     <MDBNavItem>
@@ -100,7 +100,7 @@ class NavBar extends React.Component {
                                                 to="Opiniones"
                                                 spy={true}
                                                 smooth={true}
-                                                offset={-70}
+                                                offset={-80}
                                                 duration={500}
                                             >
                                                 <MDBNavLink to="#">
@@ -114,7 +114,7 @@ class NavBar extends React.Component {
                                                 to="Nosotros"
                                                 spy={true}
                                                 smooth={true}
-                                                offset={-70}
+                                                offset={-80}
                                                 duration={500}
                                             >
                                                 <MDBNavLink to="#">
