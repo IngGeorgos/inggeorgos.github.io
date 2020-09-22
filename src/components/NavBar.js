@@ -29,12 +29,12 @@ class NavBar extends React.Component {
     }
 
     render() {
-        const bgColor = {backgroundColor: 'white'}
+        const bgColor = {backgroundColor: '#2196F3'}
         return(
             <div className="mb-5">
                 <Router>
                     <header>
-                        <MDBNavbar style={bgColor} dark expand="md" scrolling fixed="top">
+                        <MDBNavbar style={bgColor} expand="md" scrolling fixed="top">
                             <MDBNavbarBrand href="/">
                                 <strong className="black-text">
                                     <Link
@@ -42,6 +42,7 @@ class NavBar extends React.Component {
                                     to="Intro"
                                     spy={false}
                                     smooth={true}
+                                    offset={-80}
                                     duration={500}
                                 >
                                     Mirage Tech
