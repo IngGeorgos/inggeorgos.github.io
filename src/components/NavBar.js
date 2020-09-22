@@ -36,7 +36,7 @@ class NavBar extends React.Component {
                     <header>
                         <MDBNavbar style={bgColor} dark expand="md" scrolling fixed="top">
                             <MDBNavbarBrand href="/">
-                                <strong className="black-text">
+                                <strong>
                                     <Link
                                     activeClass="active"
                                     to="Intro"
