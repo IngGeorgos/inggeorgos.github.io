@@ -34,3 +34,8 @@ div[class*=" card"] {
     border: 1px double chocolate;
 }*/
 
+.nav-section > .active > .nav-link
+{
+    background: rgba(135,206,250, 0.3);
+}
+
