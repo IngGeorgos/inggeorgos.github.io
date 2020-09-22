@@ -11,7 +11,7 @@ class Technologies extends Component {
     render() {
         return (
 
-            <div className="my-5" id="Tecnologias">
+            <div className="my-5 pt-5" id="Tecnologias">
 
                 <div class="divider-new">
                     <h2 className='h1-responsive blue-text font-weight-bold text-center'>Tecnologías que utilizamos</h2>

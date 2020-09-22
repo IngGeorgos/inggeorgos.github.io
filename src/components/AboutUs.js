@@ -17,7 +17,7 @@ class AboutUs extends Component {
                 <MDBRow>
                     <MDBCol>
                         <MDBJumbotron style={{ padding: 0 }} className="z-depth-2">
-                            <MDBCol className="text-white text-center py-5 px-4 my-5 rounded"
+                            <MDBCol className="text-white text-center py-5 px-4 mt-5 rounded"
                                     style={{
                                         backgroundImage: "url("+bg+")"
                                     }}
