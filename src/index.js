@@ -5,9 +5,8 @@ import "bootstrap-css-only/css/bootstrap.min.css";
 import "mdbreact/dist/css/mdb.css";
 import "./index.css";
 import App from "./App";
-
-import unregisterServiceWorker from './registerServiceWorker';
+import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render( <App /> , document.getElementById('root'));
 
-unregisterServiceWorker();
+serviceWorker.unregister();
