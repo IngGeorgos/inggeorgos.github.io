@@ -29,12 +29,12 @@ class NavBar extends React.Component {
     }
 
     render() {
-        const bgColor = {backgroundColor: '#2196F3'}
+        const bgColor = {backgroundColor: 'white'}
         return(
             <div className="mb-5">
                 <Router>
                     <header>
-                        <MDBNavbar style={bgColor} dark expand="md" scrolling fixed="top">
+                        <MDBNavbar style={bgColor} light expand="md" scrolling fixed="top">
                             <MDBNavbarBrand href="/">
                                 <strong>
                                     <Link
