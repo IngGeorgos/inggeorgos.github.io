@@ -8,7 +8,7 @@ import
     MDBCollapse,
     MDBNavItem,
     MDBNavLink,
-    MDBIcon
+    MDBIcon, MDBRow
 } from 'mdbreact';
 import { Link } from "react-scroll";
 import { BrowserRouter as Router } from 'react-router-dom';
@@ -44,6 +44,7 @@ class NavBar extends React.Component {
                                     smooth={true}
                                     offset={-80}
                                     duration={500}
+                                    onClick={ this.onClick }
                                 >
                                     Mirage Tech
                                 </Link>
@@ -60,6 +61,7 @@ class NavBar extends React.Component {
                                                 smooth={true}
                                                 offset={-80}
                                                 duration={500}
+                                                onClick={ this.onClick }
                                             >
                                                 <MDBNavLink to="#">
                                                     Misión
@@ -74,6 +76,7 @@ class NavBar extends React.Component {
                                             smooth={true}
                                             offset={-80}
                                             duration={500}
+                                            onClick={ this.onClick }
                                         >
                                                 <MDBNavLink to="#">
                                                     Servicios
@@ -88,6 +91,7 @@ class NavBar extends React.Component {
                                             smooth={true}
                                             offset={-80}
                                             duration={500}
+                                            onClick={ this.onClick }
                                         >
                                             <MDBNavLink to="#">
                                                 Tecnologías
@@ -102,6 +106,7 @@ class NavBar extends React.Component {
                                                 smooth={true}
                                                 offset={-80}
                                                 duration={500}
+                                                onClick={ this.onClick }
                                             >
                                                 <MDBNavLink to="#">
                                                     Opiniones
@@ -116,6 +121,7 @@ class NavBar extends React.Component {
                                                 smooth={true}
                                                 offset={-80}
                                                 duration={500}
+                                                onClick={ this.onClick }
                                             >
                                                 <MDBNavLink to="#">
                                                     Nosotros
@@ -124,15 +130,23 @@ class NavBar extends React.Component {
                                     </MDBNavItem>
                                 </MDBNavbarNav>
                                 <MDBNavbarNav right>
-                                    <MDBNavItem>
-                                        <MDBNavLink to="#"><MDBIcon fab icon="facebook-f"/></MDBNavLink>
-                                    </MDBNavItem>
-                                    <MDBNavItem>
-                                        <MDBNavLink to="#"><MDBIcon fab icon="twitter"/></MDBNavLink>
-                                    </MDBNavItem>
-                                    <MDBNavItem>
-                                        <MDBNavLink to="#"><MDBIcon fab icon="github"/></MDBNavLink>
-                                    </MDBNavItem>
+                                    <MDBRow center>
+                                        <MDBNavItem>
+                                            <MDBNavLink to="#" onClick={ this.onClick } className="">
+                                                <MDBIcon fab icon="facebook-f"/>
+                                            </MDBNavLink>
+                                        </MDBNavItem>
+                                        <MDBNavItem>
+                                            <MDBNavLink to="#" onClick={ this.onClick } className="">
+                                                <MDBIcon fab icon="twitter"/>
+                                            </MDBNavLink>
+                                        </MDBNavItem>
+                                        <MDBNavItem>
+                                            <MDBNavLink to="#" onClick={ this.onClick } className="">
+                                                <MDBIcon fab icon="github"/>
+                                            </MDBNavLink>
+                                        </MDBNavItem>
+                                    </MDBRow>
                                 </MDBNavbarNav>
                             </MDBCollapse>
                         </MDBNavbar>
