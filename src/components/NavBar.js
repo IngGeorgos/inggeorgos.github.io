@@ -30,8 +30,9 @@ class NavBar extends React.Component {
 
     render() {
         const bgColor = {backgroundColor: 'white'}
+
         return(
-            <div className="mb-5">
+            <div className="mb-5" ref="Navbar" onBlur={this.onClick}>
                 <Router>
                     <header>
                         <MDBNavbar style={bgColor} light expand="md" scrolling fixed="top">

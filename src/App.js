@@ -17,8 +17,8 @@ class App extends Component
     return(
 
         <div>
+            <NavBar/>
             <MDBContainer>
-                <NavBar/>
                 <AboutUs/>
                 <Mision/>
                 <Services/>
