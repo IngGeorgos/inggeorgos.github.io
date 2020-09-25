@@ -11,7 +11,7 @@ class Mision extends Component {
         return (
             <div className="pt-5" id="Mision">
                 <div className="divider-new">
-                    <h2 className='h1-responsive blue-text font-weight-bold text-center'>Que nos caracteriza</h2>
+                    <h2 className='h1-responsive black-text font-weight-bold text-center'>Que nos caracteriza</h2>
                 </div>
 
                 <MDBRow>
