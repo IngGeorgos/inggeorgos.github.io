@@ -24,16 +24,16 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
-
+        
     - name: Install and Build
-        run:
+      run: 
         yarn
         yarn build
-
+        
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@3.6.1
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: gh-pages
-          folder: build
-          clean: true
+      with:
+       github_token: ${{ secrets.GITHUB_TOKEN }}
+       branch: gh-pages
+       folder: build
+       clean: true
