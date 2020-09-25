@@ -64,7 +64,7 @@ class Technologies extends Component {
                     <MDBCol middle>
                         <MDBTooltip placement="top" domElement tag="div">
                             <div>
-                                <img src={require("../images/c++.png")}/>
+                                <img src={require("../images/c++.png")} alt="C++"/>
                             </div>
                             <div>C++</div>
                         </MDBTooltip>
@@ -117,7 +117,7 @@ class Technologies extends Component {
                     <MDBCol middle>
                         <MDBTooltip placement="top" domElement tag="div">
                             <div>
-                                <img src={require("../images/django.png")}/>
+                                <img src={require("../images/django.png")} alt="Django"/>
                             </div>
                             <div>Django</div>
                         </MDBTooltip>
@@ -125,7 +125,7 @@ class Technologies extends Component {
                     <MDBCol middle>
                         <MDBTooltip placement="top" domElement tag="div">
                             <div>
-                                <img src={require("../images/postgresql.png")}/>
+                                <img src={require("../images/postgresql.png")} alt="PostgreSQL"/>
                             </div>
                             <div>PostgresSQL</div>
                         </MDBTooltip>
@@ -133,7 +133,7 @@ class Technologies extends Component {
                     <MDBCol middle>
                         <MDBTooltip placement="top" domElement tag="div">
                             <div>
-                                <img src={require("../images/mysql.png")}/>
+                                <img src={require("../images/mysql.png")} alt="MySQL"/>
                             </div>
                             <div>MySQL</div>
                         </MDBTooltip>
@@ -141,7 +141,7 @@ class Technologies extends Component {
                     <MDBCol middle>
                         <MDBTooltip placement="top" domElement tag="div">
                             <div>
-                                <img src={require("../images/Qt.png")}/>
+                                <img src={require("../images/Qt.png")} alt="Qt"/>
                             </div>
                             <div>Qt</div>
                         </MDBTooltip>
@@ -149,7 +149,7 @@ class Technologies extends Component {
                     <MDBCol middle>
                         <MDBTooltip placement="top" domElement tag="div">
                             <div>
-                                <img src={require("../images/flutter.png")}/>
+                                <img src={require("../images/flutter.png")} alt="Flutter"/>
                             </div>
                             <div>Flutter</div>
                         </MDBTooltip>
