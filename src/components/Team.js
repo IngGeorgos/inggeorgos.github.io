@@ -11,7 +11,7 @@ const Team = () => {
     return (
         <div id="Nosotros" className="pt-5">
             <div className="divider-new">
-                <h2 className='h1-responsive blue-text font-weight-bold text-center'>Choose your character</h2>
+                <h2 className='h1-responsive black-text font-weight-bold text-center'>Choose your character</h2>
             </div>
 
             <MDBRow>

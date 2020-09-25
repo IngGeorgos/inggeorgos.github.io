@@ -14,7 +14,7 @@ class Technologies extends Component {
             <div className="my-5 pt-5" id="Tecnologias">
 
                 <div class="divider-new">
-                    <h2 className='h1-responsive blue-text font-weight-bold text-center'>Tecnologías que utilizamos</h2>
+                    <h2 className='h1-responsive black-text font-weight-bold text-center'>Tecnologías que utilizamos</h2>
                 </div>
 
             <MDBBox className="z-depth-2 rounded p-5 text-center" bgColor="white">

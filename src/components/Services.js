@@ -15,7 +15,7 @@ class Services extends Component {
         return (
             <div id="Servicios" className="pt-5">
                 <div className="divider-new">
-                    <h2 className='h1-responsive blue-text font-weight-bold text-center'>Que servicios ofrecemos</h2>
+                    <h2 className='h1-responsive black-text font-weight-bold text-center'>Que servicios ofrecemos</h2>
                 </div>
 
             <MDBCardGroup column deck>
