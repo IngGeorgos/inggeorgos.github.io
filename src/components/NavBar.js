@@ -20,6 +20,7 @@ class NavBar extends React.Component {
             collapse: false,
         };
         this.onClick = this.onClick.bind(this);
+        this.onClickOther = this.onClickOther.bind(this);
     }
 
     onClick() {
@@ -28,11 +29,18 @@ class NavBar extends React.Component {
         });
     }
 
+    onClickOther()
+    {
+        this.setState({
+            collapse: false
+        });
+    }
+
     render() {
         const bgColor = {backgroundColor: 'white'}
 
         return(
-            <div className="mb-5" ref="Navbar" onBlur={this.onClick}>
+            <div className="mb-5" ref="Navbar" onBlur={this.onClickOther}>
                 <Router>
                     <header>
                         <MDBNavbar style={bgColor} light expand="md" scrolling fixed="top">
@@ -45,13 +53,13 @@ class NavBar extends React.Component {
                                     smooth={true}
                                     offset={-80}
                                     duration={500}
-                                    onClick={ this.onClick }
+                                    onClick={ this.onClickOther}
                                 >
                                     Mirage Tech
                                 </Link>
                                 </strong>
                             </MDBNavbarBrand>
-                            <MDBNavbarToggler onClick={ this.onClick } />
+                            <MDBNavbarToggler onClick={ this.onClick} />
                             <MDBCollapse isOpen = { this.state.collapse } navbar>
                                 <MDBNavbarNav right>
                                     <MDBNavItem className="nav-section">
@@ -62,7 +70,7 @@ class NavBar extends React.Component {
                                                 smooth={true}
                                                 offset={-80}
                                                 duration={500}
-                                                onClick={ this.onClick }
+                                                onClick={ this.onClickOther}
                                             >
                                                 <MDBNavLink to="#">
                                                     Misión
@@ -77,7 +85,7 @@ class NavBar extends React.Component {
                                             smooth={true}
                                             offset={-80}
                                             duration={500}
-                                            onClick={ this.onClick }
+                                            onClick={ this.onClickOther}
                                         >
                                                 <MDBNavLink to="#">
                                                     Servicios
@@ -92,7 +100,7 @@ class NavBar extends React.Component {
                                             smooth={true}
                                             offset={-80}
                                             duration={500}
-                                            onClick={ this.onClick }
+                                            onClick={ this.onClickOther}
                                         >
                                             <MDBNavLink to="#">
                                                 Tecnologías
@@ -107,7 +115,7 @@ class NavBar extends React.Component {
                                                 smooth={true}
                                                 offset={-80}
                                                 duration={500}
-                                                onClick={ this.onClick }
+                                                onClick={ this.onClickOther}
                                             >
                                                 <MDBNavLink to="#">
                                                     Opiniones
@@ -122,7 +130,7 @@ class NavBar extends React.Component {
                                                 smooth={true}
                                                 offset={-80}
                                                 duration={500}
-                                                onClick={ this.onClick }
+                                                onClick={ this.onClickOther}
                                             >
                                                 <MDBNavLink to="#">
                                                     Nosotros
@@ -133,17 +141,17 @@ class NavBar extends React.Component {
                                 <MDBNavbarNav right>
                                     <MDBRow center>
                                         <MDBNavItem>
-                                            <MDBNavLink to="#" onClick={ this.onClick } className="">
+                                            <MDBNavLink to="#" onClick={ this.onClickOther} className="">
                                                 <MDBIcon fab icon="facebook-f"/>
                                             </MDBNavLink>
                                         </MDBNavItem>
                                         <MDBNavItem>
-                                            <MDBNavLink to="#" onClick={ this.onClick } className="">
+                                            <MDBNavLink to="#" onClick={ this.onClickOther} className="">
                                                 <MDBIcon fab icon="twitter"/>
                                             </MDBNavLink>
                                         </MDBNavItem>
                                         <MDBNavItem>
-                                            <MDBNavLink to="#" onClick={ this.onClick } className="">
+                                            <MDBNavLink to="#" onClick={ this.onClickOther} className="">
                                                 <MDBIcon fab icon="github"/>
                                             </MDBNavLink>
                                         </MDBNavItem>
