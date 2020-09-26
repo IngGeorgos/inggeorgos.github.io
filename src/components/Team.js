@@ -25,16 +25,16 @@ const Team = () => {
                             <h5 className='h4-responsive font-weight-bold text-center'>SanJorge</h5>
                             <p>"El Crema" and you know it</p>
                             <div className='text-center'>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='twitter' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='github' size="lg" className="dark-grey-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='linkedin' size="lg" className="blue-text"/>
                                 </a>
                             </div>
