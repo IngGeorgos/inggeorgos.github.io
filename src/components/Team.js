@@ -52,16 +52,16 @@ const Team = () => {
                             <h5 className='h4-responsive font-weight-bold text-center'>Jorgito</h5>
                             <p>"The Shank of punishment"</p>
                             <div className='text-center'>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='twitter' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='github' size="lg" className="dark-grey-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='linkedin' size="lg" className="blue-text"/>
                                 </a>
                             </div>
@@ -79,16 +79,16 @@ const Team = () => {
                             <h5 className='h4-responsive font-weight-bold text-center'>Konami</h5>
                             <p>"Wreaking Ball"</p>
                             <div className='text-center'>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='twitter' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='github' size="lg" className="dark-grey-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='linkedin' size="lg" className="blue-text"/>
                                 </a>
                             </div>
@@ -108,16 +108,16 @@ const Team = () => {
                             <h5 className='h4-responsive font-weight-bold text-center'>Kirito</h5>
                             <p>"Aceggrrre ya"</p>
                             <div className='text-center'>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='twitter' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='github' size="lg" className="dark-grey-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='linkedin' size="lg" className="blue-text"/>
                                 </a>
                             </div>
@@ -135,16 +135,16 @@ const Team = () => {
                             <h5 className='h4-responsive font-weight-bold text-center'>Paco</h5>
                             <p>"The invisible man" (in many ways)</p>
                             <div className='text-center'>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='twitter' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='github' size="lg" className="dark-grey-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='linkedin' size="lg" className="blue-text"/>
                                 </a>
                             </div>
@@ -162,16 +162,16 @@ const Team = () => {
                             <h5 className='h4-responsive font-weight-bold text-center'>Dark Link</h5>
                             <p>"A man of action"</p>
                             <div className='text-center'>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='twitter' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='github' size="lg" className="dark-grey-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='linkedin' size="lg" className="blue-text"/>
                                 </a>
                             </div>
@@ -191,16 +191,16 @@ const Team = () => {
                             <h5 className='h4-responsive font-weight-bold text-center'>Arturo</h5>
                             <p>"A man whitout a filter"</p>
                             <div className='text-center'>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='twitter' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='github' size="lg" className="dark-grey-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='linkedin' size="lg" className="blue-text"/>
                                 </a>
                             </div>
@@ -218,16 +218,16 @@ const Team = () => {
                             <h5 className='h4-responsive font-weight-bold text-center'>Alike</h5>
                             <p>"The Nurse"</p>
                             <div className='text-center'>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='twitter' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='github' size="lg" className="dark-grey-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='linkedin' size="lg" className="blue-text"/>
                                 </a>
                             </div>
@@ -248,16 +248,16 @@ const Team = () => {
                             <h5 className='h4-responsive font-weight-bold text-center'>Jesus</h5>
                             <p>This player is not longer available</p>
                             <div className='text-center'>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='twitter' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='github' size="lg" className="dark-grey-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='linkedin' size="lg" className="blue-text"/>
                                 </a>
                             </div>

@@ -30,16 +30,16 @@ const Footer = () => {
                             <h5 className='h4-responsive font-weight-bold text-center'>Contactos</h5>
                             <p>Miragetech@mail.com</p>
                             <div className='text-center'>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='facebook-f' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='twitter' size="lg" className="blue-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='github' size="lg" className="dark-grey-text"/>
                                 </a>
-                                <a href="" className="mx-2">
+                                <a href="https://inggeorgos.github.io/" className="mx-2">
                                     <MDBIcon fab icon='linkedin' size="lg" className="blue-text"/>
                                 </a>
                             </div>
@@ -49,7 +49,7 @@ const Footer = () => {
             </MDBContainer>
             <div className="footer-copyright text-center py-3">
                 <MDBContainer fluid className="black-text">
-                    &copy; {new Date().getFullYear()} Copyright: <a href="" className="black-text font-weight-bold"> Mirage Tech </a>
+                    &copy; {new Date().getFullYear()} Copyright: <a href="https://inggeorgos.github.io/" className="black-text font-weight-bold"> Mirage Tech </a>
                 </MDBContainer>
             </div>
         </MDBFooter>
